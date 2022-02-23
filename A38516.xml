@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to Friends given forth from Leinster-province meeting in Ireland, held at Castledermot the 9th. 10th. and 11th. days of the 7th. month 1698.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38516</idno>
+            <idno type="STC">Wing E3165A</idno>
+            <idno type="STC">ESTC R219570</idno>
+            <idno type="EEBO-CITATION">99831031</idno>
+            <idno type="PROQUEST">99831031</idno>
+            <idno type="VID">35493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35493)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2048:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to Friends given forth from Leinster-province meeting in Ireland, held at Castledermot the 9th. 10th. and 11th. days of the 7th. month 1698.</title>
+               </titleStmt>
+               <extent>29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A1 is blank.</note>
+                  <note>Reproduction of the original in the Friends' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Early works to 1800.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35493:1"/>
+            <pb facs="tcp:35493:1" rendition="simple:additions"/>
+            <p>AN EPISTLE TO <hi>FRIENDS,</hi> Given forth from Lein<g ref="char:EOLhyphen"/>ſter-Province Meeting in <hi>Ireland,</hi> held at Caſtleder<g ref="char:EOLhyphen"/>mot the 9th. 10th. and 11th. days of the 7th. Month 1698.</p>
+            <q>
+               <p>Love not the World, neither the things that are in the World: If any Man love the World, the Love of the Father is not in him,</p>
+               <bibl>
+                  <hi>1 John 1 Chap. 15. verſ.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>Printed in the Year 1699</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:35493:2"/>
+            <pb n="5" facs="tcp:35493:2" rendition="simple:additions"/>
+            <head>The Epiſtle,</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>THE following Epiſtle is recommended to be read, in the fear of the Lord, in which I doubt not but you will have a ſence of the Godly Care and Concern, which the Lord hath raiſed in the Minds of ſome of his faithful Elders, for the Good and Preſervation of his Heritage But if there be any amongſt our ſelves, or others not acquainted with our Chriſtian Diſcipline, (who for want of truly ſeeing the great danger and hurt, that hath attended the Profeſſors of Chriſtianity, by un<g ref="char:EOLhyphen"/>bounded deſires, and perſuit after the things of this World;) ſhall cenſure our Chriſtian care, as if we went about to exerciſe Lordſhip over one ano<g ref="char:EOLhyphen"/>ther, or would hinder, and limet ſuch Induſtrous and capable perſons, who in the fear of God, and in Moderation, do improve the Creation in general, or their own worldly Talents in particular, which God hath been pleas'd to give them. I ſay if any ſhall thus Judg of our Godly Care and Endeavours, Let all ſuch know they are miſtaken, and that no ſuch thing is intended.</p>
+            <p>But as a People, whom the Lord hath made ſen<g ref="char:EOLhyphen"/>ſible, of the many ſnares that do attend, and the Loſs ſome have ſuſteined, by the unſatiable Deſire,
+<pb n="6" facs="tcp:35493:3"/>and too Eager Perſuit after the Lawful things of this World; A concern came upon us, that if poſ<g ref="char:EOLhyphen"/>ſible we might all come to be limited, with truths bounds that leads to Moderation and Content; and to depend more upon that providential hand of the Lord, that will afford us, what we ſtand in Need of, then in an Inordinate deſire to perſue after the gain of this Worlds Goods.</p>
+            <p>And now dear Friends and Brethren, this Bro<g ref="char:EOLhyphen"/>therly Caution ariſes in my Heart to you, who were Eye-Witneſſes and partakers of that wonderful and Eminent bowing power and preſence of the Lord God, that appear amongſt us at that Meeting, that none who were Witneſſes, of the Power of the Lord at that time, and thereby brought into a lively ſence and ſight of the great danger, attending that mind which would be going after Covetouſneſs, may in the leaſt give way thereto, or enter into Reaſoning and Conſulting with Fleſh and Blood, by which you will looſe the ſence you then had of that Spirit, and be in danger of becoming Monuments of God's Diſpleaſure. But on the contrary keep to the gui<g ref="char:EOLhyphen"/>dance and direction of Gods Spirit in your ſelves; which will limit your deſires (to the lawful things of this World) within the bounds of Truth, which is the earneſt deſire of one that deſires the good and preſervation of all in that which will tend to the glory of God, &amp; bring everlaſting comfort in the end.</p>
+            <closer>
+               <signed>Thomas Trafford.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="7" facs="tcp:35493:3"/>
+            <head>To all our dear Friends and Brethren in this Nation of <hi>Ireland,</hi> and elſewhere.</head>
+            <p>THE Salutation of our dear love in the Lord JESUS CHRIST in tender Bow<g ref="char:EOLhyphen"/>els, flows forth to the whole Heritage of God with fervent deſires, that all may walk worthy of his great love and Fatherly kindneſs and care to us, and over us, who hath bleſſed us in turning us from our Iniquities, and brought us to the knowledge of himſelf, by the bleſſed light of his dear Son ſhining in our hearts, and by the evidence of his holy Spirit confirmed our faith in the great unſpeakable benefit we have, both in his firſt and ſecond coming for to ſuffer for us, in that prepared Body,
+<pb n="8" facs="tcp:35493:4"/>and now in Spirit and glorious power of the Father, to perfect our Redemp<g ref="char:EOLhyphen"/>tion and Salvation, and to reconcile us unto himſelf by waſhing us with the Water of Regeneration, &amp; ſprinkling us with the Blood of his covenant and under his daily Croſs, which crucifies us to the World, and renews his hea<g ref="char:EOLhyphen"/>venly Image in us, and hath preſerved us in all Exerciſes of Troubles, Temp<g ref="char:EOLhyphen"/>tations, and Perils of all ſorts, inward and outward, and fed us plentifully with the wholeſom and ſound do<g ref="char:EOLhyphen"/>ctrine of his heavenly Kingdom, and watered us abundantly from time to time with the Diſtillations of the Showers thereof flowing from the Clouds; that he hath prepared and filled with his holy spirit to repleniſh his Husbandry and Vineyard with the Myſteries of Faith and Godlineſs, as the former Rain in its ſeaſon, and the latter Rain in its ſeaſon; and clothed us with Religious Diſcipline, and Go<g ref="char:EOLhyphen"/>ſpel Order, that no nakedneſs may be amongſt us, but every Member of this
+<pb n="9" facs="tcp:35493:4"/>Body of people which Chriſt is Head of may be covered with his Righteouſ<g ref="char:EOLhyphen"/>neſs in Words and Actions, following him in the daily Croſs and ſelf denial by Faith in him, as Lights in the World to the praiſe and glory of God; and in order to carry on and perfect this good Work for our Eſtabliſhment and his Honour, He hath raiſed and ſettled, and is raiſing Inſtruments according to his bleſſed promiſe that he would give his People Judges as at firſt, and Coun<g ref="char:EOLhyphen"/>ſellers as at the beginning: Men fearing God and hating Covetouſneſs, gifting them for this great Work with his holy Spirit of Counſel with a ſound Mind and Underſtanding, and a con<g ref="char:EOLhyphen"/>cern for his Honour, and proſperity of his bleſſed Truth amongſt Men; the Enlargement and Exalting of the Go<g ref="char:EOLhyphen"/>vernment and Kingdom of Chriſt with all Godly diligence, according to the ability and gift of his holy Spirit of Wiſdom and Underſtanding given to them for this work and ſervice for the Lord and his People, as help-meets in
+<pb n="10" facs="tcp:35493:5"/>Government, and Overſeers and Door<g ref="char:EOLhyphen"/>keepers of the Flock and Church of Chriſt, walking before them as good Examples in ſelf-denial and daily Croſs of Chriſt, not only to the unlawful things of the World, but to the lawful things; The Lord bounding them in their getting, and ordering them in their Management, and diſpoſing there<g ref="char:EOLhyphen"/>of that the Flock may follow by their footſteps as they thus follow Chriſt.</p>
+            <p>
+               <hi>And dear Friends,</hi> You of this Na<g ref="char:EOLhyphen"/>tion knows that for ſeveral Years paſt there hath been, and yet remains, a Godly care on the minds and ſpirits of ſuch whom the Lord hath thus raiſed and concerned as Overſeers; that all things might be well in the Church of Chriſt, and he may preſent it to the Father as a Chaſte Virgin, without ble<g ref="char:EOLhyphen"/>miſh; and on this Account much la<g ref="char:EOLhyphen"/>bour of God hath been beſtowed at Opportunities and Seaſons, which the Lord hath put into our hands, and hath been ſanctified to us, the Lord owning
+<pb n="11" facs="tcp:35493:5"/>his work and us in it, and honouring our Aſſemblies in this ſervice with his powerful glorious preſence to the over<g ref="char:EOLhyphen"/>coming of our hearts with comfort and ſatisfaction, opening our Underſtand<g ref="char:EOLhyphen"/>ings by the Enlargement of his holy Spirit, in many things abſolutely need<g ref="char:EOLhyphen"/>ful to be put in practice for the preſer<g ref="char:EOLhyphen"/>vation of his People, out of the ſnares of the Enemy of Mankind, which he lays in the World and baits them with the things of this World. And God hath wonderfully own'd and bleſſed our labours to our great Comfort and En<g ref="char:EOLhyphen"/>couragment, and the great benefit and ſatisfaction of many who gives thanks and praiſes to the Lord for the benefit received, on many Accounts through thoſe cloſe Concerns and Labours of love for the good of one another, as Saviours on <hi>Mount Sion.</hi>
+            </p>
+            <p>And now that which remains and chiefly is before us in this ſervice of this our day, is to warn and admo<g ref="char:EOLhyphen"/>niſh the Church of Chriſt to beware of the ſnares of that unwearied Enemy
+<pb n="12" facs="tcp:35493:6"/>which he lays in ſecret, &amp; baits with the lawful things of this World in this time of Eaſe and great Liberty; for his baits is ſuitable to the times and ſeaſons to anſwer the Inclination of Peoples minds that goes from things that are above, after the things that are below; and 'tis eaſie to underſtand the generality of People is taken in his ſnares and car<g ref="char:EOLhyphen"/>ried away after <hi>Riches, Preferment, Ho<g ref="char:EOLhyphen"/>nour, Greatneſs,</hi> and <hi>Vain-Glory</hi> in the things of this World that is uncertain, and ſoon comes to an End: And he is ſtriving to break in upon the People of our Society whom the Lord hath cal<g ref="char:EOLhyphen"/>led by his Grace out of the World, to obey and follow him in all things as Lights in the World to his Honour. And this Enemy of all Righteouſneſs hath prevailed on many, that are not ſo careful and watchful in the Light of Chriſt as they ought to be, againſt this Adverſary of Mankind, in the lawful things of this World, with which he blinds the Eyes of the Un<g ref="char:EOLhyphen"/>derſtanding, and leads the Heart, Mind
+<pb n="13" facs="tcp:35493:6"/>and Affections into Captivity, they not Eying the Lord and his bleſſed Truth to limit and bound them, ſo falls into many Temptations, Snares, and hurtful Luſts; and others following their Examples to get Riches, and be big in the World, Invades other Mens Properties, and fails in their purpoſes, ſo ſacrifices Religion and their own Credit to their greedy deſire after gain, and gives occaſion for Men to brand us with the Character of Covetouſneſs, which cauſes Truth profeſſed by us to be evil ſpoken of; Stumbles the minds of ſome that otherwiſe might joyn with us, and hinders the Lords work of Re<g ref="char:EOLhyphen"/>formation on many Accounts, and grieves his good Spirit, and wounds the hearts of his faithful Servants, that are given up in Heart, Mind, Body, and Subſtance, that the Lord may limit, bound, order and diſpoſe of them &amp; all they have, and hold as ſtewards under him; that hath all power in Heaven and Earth: and his Will and Mind to be known and obſerved in Earthly things
+<pb n="14" facs="tcp:35493:7"/>as well as in heavenly things, with all due Reverence, Subjection, and Obe<g ref="char:EOLhyphen"/>dience, where our preſervation is from the Inrodes the Enemy makes to hin<g ref="char:EOLhyphen"/>der the Progreſs of the Lords People, and to make them unfruitful to the Lord as his Vineyard, in heavenly and ſpiritual things; but inſtead there<g ref="char:EOLhyphen"/>of to bring forth wild Grapes, Bryars, Thorns, Thiſtles, and Tares, the fruits of the Mind, Heart, Spirit, and Af<g ref="char:EOLhyphen"/>fections that goes in their own Wills into Earthly things, beyond the Bounds and Limits of the Lords Everlaſting Truth, which is great provocations for the Lord to curſe the Ground, and to lay his Vineyard waſte which he hath beſtowed great labour upon, that it might bring forth good fruit to the Praiſe, Honour, and Glory of his great Name.</p>
+            <p>Now under a due conſideration of the great Injury and damage the Church of Chriſt hath and doth ſuſtain in our day by this floating Spirit that leads into the lawful things of the
+<pb n="15" facs="tcp:35493:7"/>World, beyond the Bounds of Truth, and beyond the uſe for which they were created and given of God. A great concern came upon ſeveral of us in a ſpiritual Travel for the Honour of God and the preſervation of his Peo<g ref="char:EOLhyphen"/>ple, the Comlineſs, Beauty, and Cre<g ref="char:EOLhyphen"/>dit of the unſpotted Religion profeſſed by us, and under this Godly care and concern the Spirit and power of the Lord mightily appearing with us, and in us, in which the Teſtimony of the Lord Jeſus roſe in many as a Standard lifted up againſt the Invaſions of an Enemy, and great Labours and En<g ref="char:EOLhyphen"/>deavours were uſed to ſtop this unſa<g ref="char:EOLhyphen"/>tiable Mind and Spirit that is ſo earn<g ref="char:EOLhyphen"/>eſt and eager after Earthly things, and yet not willing to be called by the name of Covetouſneſs, and to bring it within the Bounds and Limits of Truth. This Religious concern being practiſed from time to time for ſeve<g ref="char:EOLhyphen"/>ral Years, at ſuch Opportunities as the Lord put into our hands to be con<g ref="char:EOLhyphen"/>cerned in Church-Affairs, that no<g ref="char:EOLhyphen"/>thing
+<pb n="16" facs="tcp:35493:8"/>thing might get in nor grow which God hath not ſowed nor planted, but be pluckt up and rooted out in due time; that the Lords Plant and good Seed that he hath planted and ſowed, might grow, flouriſh, and bring forth good fruits in due Seaſon, to the Ho<g ref="char:EOLhyphen"/>nour and Glory of the great Husband<g ref="char:EOLhyphen"/>man, that the cares of this World and Covetouſneſs of Riches might not choak it.</p>
+            <p>Now we being at our Province Meet<g ref="char:EOLhyphen"/>ing, before mentioned, and a great Ap<g ref="char:EOLhyphen"/>pearance of Friends both Men and Wo<g ref="char:EOLhyphen"/>men, and the mighty power of the Lord amongſt us, his Glory covering our Aſſembly, and crowning our meet<g ref="char:EOLhyphen"/>ing with his preſence, and under a weighty ſence thereof the Affairs of the Church were managed in great Unity, Peace, and Concord; And un<g ref="char:EOLhyphen"/>der this heavenly Canopy of the Lords Antient goodneſs a weighty concern came upon our Spirits, as at other times on the like Occaſion, concerning the Bounds and Limits of Getting, and
+<pb n="17" facs="tcp:35493:8"/>the right uſing the lawful things of this World; and how far Friends might ſafely go into them. And much time being ſpent in Church-Affairs to good purpoſe and ſatisfaction the Meeting adjourned till the next day, and after the Meeting for the worſhip of God was over, then Men, Friends, and An<g ref="char:EOLhyphen"/>tient concerned Women, to meet to<g ref="char:EOLhyphen"/>gether, and conſider of this weighty matter; and accordingly Friends met and ſat down in great Silence, retired to the Lord for his Aid and Counſel, and the Lord was pleaſed to appear, and his power was great through his Spirit to our great Comfort, for his Glory covered our Aſſembly, and many hearts were melted before him, be<g ref="char:EOLhyphen"/>cauſe of the weight of his Goodneſs, which bowed all Spirits, and many heavenly things were opened in the Teſtimony of Jeſus concerning the Bounds and right uſe of the lawful things of this World, and in the de<g ref="char:EOLhyphen"/>monſtration of the Spirit and power of
+<pb n="18" facs="tcp:35493:9"/>Chriſt then abounding amongſt us, and governing our Aſſembly, and guiding our hearts and underſtandings. Unani<g ref="char:EOLhyphen"/>mouſly mouſly it was agreed and adjudged that a Competence of the lawful things of this World is ſufficient for every one, and is the right bounds with a due conſideration of every ones Charge, Station, place and ſervice. And that Mind which will not be content with this bears the Character of Covetouſ<g ref="char:EOLhyphen"/>neſs, and renders ſuch unfit to Rule in the Church of Chriſt; And under the Over-Ruling power of the Lord there was an Unanimous Conſent, one by one, to offer up our ſelves to the Judg<g ref="char:EOLhyphen"/>ment of the Province-Meeting, or other approved Elders, as the Province-Meet<g ref="char:EOLhyphen"/>ing ſhall think fit, if in any thing we do exceed thoſe Bounds, that Truth may bound Us that hath all power in Heaven and Earth: And in a Subjecti<g ref="char:EOLhyphen"/>on one to another in our Poſſeſſions, Holdings, Callings, Trading and deal<g ref="char:EOLhyphen"/>ing amongſt Men, not to be our own
+<pb n="19" facs="tcp:35493:9"/>Judges, or walk in the light of our own Eyes, conſidering the Wiſe Mans ſaying, <hi>that every Mans Cauſe is good in his own Eyes, but his Neighbour finds him out, and in the multitude of Counſel is ſafety.</hi> Not that we intend to deprive any, of the moderate &amp; lawful uſe of the things of this World, or to take from any Man his Poſſeſſions, or to invade and take a<g ref="char:EOLhyphen"/>way Property, but to bring all things into right bounds, and ſet them in their right places, that ſo none may be guil<g ref="char:EOLhyphen"/>ty of the great ſin of abuſing the Lord's Mercies, but might uſe and enjoy them to his honour; that in ſo doing they may enjoy his Peace &amp; Bleſſing, which in<g ref="char:EOLhyphen"/>deed is the true comfort of all Enjoy<g ref="char:EOLhyphen"/>ments. Thus ſhall we give evident Te<g ref="char:EOLhyphen"/>ſtimony to the World by our Modera<g ref="char:EOLhyphen"/>tion, even in the lawful things, that we are true followers of the Lord Jeſus Chriſt in a ſelf-denying life. And thus, as helps meet together in the Lord Je<g ref="char:EOLhyphen"/>ſus, we may be as Saviours on <hi>Mount Sion,</hi> building up one another in our
+<pb n="20" facs="tcp:35493:10"/>moſt precious Faith, and in our heaven<g ref="char:EOLhyphen"/>ly poſſeſſion in Chriſt Jeſus, over the greedy Gain, Greatneſs, and Vain-Glory of the World, and periſhing fading things thereof that ſoon comes to an End; and here the rich Man will not Glory in his Riches, but ſee the danger of them, and not lay hold of Opportuni<g ref="char:EOLhyphen"/>ties to heap up more, to make him<g ref="char:EOLhyphen"/>ſelf and poſterity great in the World, but rather Endeavour to leſſen, that with more eaſe and chearfulneſs he may ſerve God and his Generation with what he hath, with all his might, be<g ref="char:EOLhyphen"/>ing glad of every Opportunity that preſents, that he may do good and be rich in good Works, conſidering he is a Steward, and his time uncertain in what he enjoys, and muſt be accountable to the Lord of all, for all things he poſ<g ref="char:EOLhyphen"/>ſeſſes under him; and under the like conſideration the mean Man will be glad that he is free from many Temp<g ref="char:EOLhyphen"/>tations and Snares that the Rich in this World is lyable to fall into, (and pierce
+<pb n="21" facs="tcp:35493:10"/>themſelves with many ſorrows and hurtful Luſts,) and bleſs the Lord for what he enjoys, not wanting Food and Rayment with which he is well con<g ref="char:EOLhyphen"/>tent and eaſie in his mind, that is to<g ref="char:EOLhyphen"/>wards the Lord, and ſeeks not from place to place, and from one Country to another in a covetous Mind to heap up Riches, but looks to the Lord with an Eye of Faith, to receive Counſel from him in his undertakings, and dare not go beyond his Limits, nor without his countenance; and all Murmuring, Repining, and Unbelief is kept out of the Camp. And there will be no craving Spirits where the Lord Rules, but all in their ſtations according to ſerve the Lord with all their might and Subſtance in their places where the Lord hath raiſed them, or order'd them, and may be ſerviceable; Shaking them<g ref="char:EOLhyphen"/>ſelves from the duſt of the Earth, put<g ref="char:EOLhyphen"/>ting on their beautiful Garments of the Lords Government, and ſhining under the diſcipline thereof, riſing over the
+<pb n="22" facs="tcp:35493:11"/>Earth and Earthly things in the life and power of Chriſt, as Lights in the World in this glorious day of the Lord, wherein he is ſtaining the Glory of the lawful things of this World, and the goodlineſs thereof by the brightneſs of his coming in the Glory of his Fathers Kingdom; and is whipping Buyers and Sellers out of the Temple, that it may be a houſe for the ſervice of God, which holineſs becomes; that he may walk, ſup, and make his abode, and the Offerings of his People may be accepta<g ref="char:EOLhyphen"/>ble to him when he hath purged away all this droſs, Tin and reprobate Silver.</p>
+            <p>Our hearts are deeply affected with the care and kindneſs of the Lord for our preſervation from the Snares of the Ene<g ref="char:EOLhyphen"/>my, which he lays for us in the lawful things of this World, far more dange<g ref="char:EOLhyphen"/>rous, and we more lyable to be taken in them in this time of great eaſe and liber<g ref="char:EOLhyphen"/>ty, than in the time of perſecution and ſufferings, to be frighted from our ſted<g ref="char:EOLhyphen"/>faſtneſs in our Faith and Principles.</p>
+            <pb n="23" facs="tcp:35493:11"/>
+            <p>
+               <hi>And dear Friend,</hi> we may well un<g ref="char:EOLhyphen"/>derſtand that as to our Society, ſelf-de<g ref="char:EOLhyphen"/>nial ſtands moſtly in the lawful things, hoping by this time of this glorious day you have overcome the baſe and unlaw<g ref="char:EOLhyphen"/>ful things, and your hearts and minds is cleanſed from them by the Blood of Chriſt that ſprinkles our hearts from an evil Conſcience, and waſhes our Bodies with clean Water of Regeneration, and renewing of his Holy Spirit. And he that hath done this for us is perfecting what is lacking, that he may preſent us to God the Father faultleſs, to whom be praiſes for ever. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Subſcribed in behalf of the Meeting by
+<list>
+                     <item>
+                        <hi>William Edmondſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Trafford.</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Roberts.</hi>
+                     </item>
+                     <item>
+                        <hi>John Pim.</hi>
+                     </item>
+                     <item>
+                        <hi>George Rooke.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Wilſon.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="24" facs="tcp:35493:12"/>
+            <head>POST-SCRIPT.</head>
+            <p>AT the firſt when the Lord cal<g ref="char:EOLhyphen"/>led and gathered us to be a People, and opened the Eyes of our Underſtandings, then we ſaw the exceeding ſinfulneſs of ſin, and the wickedneſs that was in the World; and a perfect Abhorrence was fixed in our hearts againſt all the wicked, un<g ref="char:EOLhyphen"/>juſt, vain, ungodly, unlawful part of the World in all Reſpects; And we ſaw the goodly and moſt glorious lawful things of the World to be abu<g ref="char:EOLhyphen"/>ſed and miſuſed: And that many Snares and Temptations laid in them, and many troubles and dangers of di<g ref="char:EOLhyphen"/>vers kinds, and we felt the Load of them, and that we could not carry them and run the Race the Lord had ſet before us ſo chearful as to win the Prize of our Salvation; So that our care was to caſt off this great
+<pb n="25" facs="tcp:35493:12"/>Load and Burthen of our great and gainful ways of getting Riches, and to leſſen our concerns therein, to the Com<g ref="char:EOLhyphen"/>paſs that we might not be chargeable to any in our ſtations and ſervices re<g ref="char:EOLhyphen"/>quired of us, and be ready to anſwer Chriſt Jeſus our Captain that called us to follow him in a ſpiritual warfare, under the diſcipline of his daily Croſs and ſelf-denial; and then the things of this World was of ſmall value with us; So that we might win Chriſt, and the goodlieſt things of the World was not near us; So that we might be near the Lord, and the Lords Truth out-ballanc'd all the World, even the moſt glorious part of it. Then great Trading was a Burthen, and great concerns a great trouble, all needleſs things, fine Houſes, rich Furniture, and gaudy Apparel, was an Eye fore; Our Eye being ſingle to the Lord, and the inſhining of his Light in our hearts, which gave us the ſight of the knowledge of the Glory of God, which ſo affected our minds, that it
+<pb n="26" facs="tcp:35493:13"/>ſtained the Glory of all Earthly things, and they bore no Maſtery with us either in dwelling, eating, drinking, buying, ſelling, marrying, or giving in marriage; the Lord was the object of our Eye, and we all hum<g ref="char:EOLhyphen"/>ble and low before him and ſelf of ſmall Repute; Miniſters and Elders in all ſuch caſes walking as good Exam<g ref="char:EOLhyphen"/>ples, that the flock might follow their footſteps as they followed Chriſt in the daily Croſs and ſelf-denial in their dwellings, callings, eating, drinking, buying, ſelling, marrying, and giving in marriage; And this anſwered the Lord and his Witneſs in all Conſci<g ref="char:EOLhyphen"/>ences, and gave us great credit a<g ref="char:EOLhyphen"/>mongſt-Men.</p>
+            <p>And as our Number increaſed, it happened that ſuch a Spirit came in amongſt us, as was amongſt the Jews, when they came out of <hi>Egypt,</hi> and this began to look back into the World, and traded with the Credit which was not of its own purchaſing
+<pb n="27" facs="tcp:35493:13"/>and ſtriving to be great in the Riches and Poſſeſſions of this World, and then great fair buildings in City and Country, fine and faſhionable Furni<g ref="char:EOLhyphen"/>ture, and apparel equivolent, with dainty and voluptuous proviſion, with Rich Matches in Marriage, with Exceſſive Cuſtomany, uncomely ſmoak<g ref="char:EOLhyphen"/>ing of Tobacco, under colour of lawful and ſerviceable, far wide from the Footſteps of the miniſters and Elders the Lord raiſed and ſent forth into his Work and ſervice at the begin<g ref="char:EOLhyphen"/>ning; And far ſhort of the Example our Lord and Maſter Chriſt Jeſus left us, when he was tempted in the Wil<g ref="char:EOLhyphen"/>derneſs with the preference of the Kingdoms of the World, and the Glo<g ref="char:EOLhyphen"/>ry of them, and deſpiſed them. And Moſes that refuſed the Crown of <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> and to be called the Son of <hi>Pharoh</hi>'s Daughter, rather chuſed Af<g ref="char:EOLhyphen"/>fliction with the Lords People, having a regard to the recompence of reward. And the holy Apoſtle writes to the Church of Chriſt both Fathers, Young<g ref="char:EOLhyphen"/>men
+<pb n="28" facs="tcp:35493:14"/>and Children, and adviſes a<g ref="char:EOLhyphen"/>gainſt the love of the World, and the faſhions thererof: And it is working as the old Leaven at this very time, to corrupt the Heritage of God, and to fill it with Bryars, Thorns, Thiſtles, and Tares, and the Grapes of the Earth to make the Lord reject it, and lay it waſt. But the Lord of all our mercies, whoſe Eye hath been over us for good ſince he gathered us to be a People, and entred into Cove<g ref="char:EOLhyphen"/>nant with us, and according to his antient promiſe is lifting up his Spirit as a Standard againſt the Invaſion of this Enemy, and is raiſing up his living Word and Teſtimony in the hearts of Many, to ſtand in the Gap which this floating high worldly li<g ref="char:EOLhyphen"/>bertine Spirit hath made; And that is gone from the Footſteps of them that follows Chriſt as at firſt, and knows him to bound them, and to keep in his Bounds: and not in their own Will, and time lay hold on Preſen<g ref="char:EOLhyphen"/>tations and Opportunities that may
+<pb n="29" facs="tcp:35493:14"/>offer to get Riches, which many hath had and refuſed for Truths ſake, and the Lord hath accepted as an offer<g ref="char:EOLhyphen"/>ing, and rewarded to their great com<g ref="char:EOLhyphen"/>fort, and to the Praiſe of his great Name.</p>
+            <closer>
+               <signed>William Edmondſon.</signed>
+            </closer>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
